@@ -21,3 +21,8 @@ colors:
     background: '#11121D'
     foreground: '#a9b1d6'
     
+window:
+  padding:
+    x: 10
+    y: 10
+  opacity: 0.98
